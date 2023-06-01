@@ -4,3 +4,4 @@ Use machine learning and the limitless tcg api to create a model that can look a
 
 -Tournament analysis
 -Being able to find the differences within an archetype - low confidence - interesting decks
+-Being able to identify a deck archetype given a deck list
